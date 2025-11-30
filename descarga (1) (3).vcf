@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Moya Sánchez;D. Nicolás;;Dr.;
+FN:Dr. Moya Sánchez D. Nicolás
+TITLE:Especialista en Psiquiatría / Psiquiatría de Enlace
+ORG:Eutimya
+TEL;CELL:+526731205121
+EMAIL:deldhym@gmail.com
+URL:https://www.eutimya.org/drmoyapsiq
+ITEM1.URL;TYPE=WhatsApp:https://wa.me/526731205121
+ITEM1.X-ABLABEL:WhatsApp
+ADR;WORK:;;Consortium Medical Group, Colonia del Valle;Ciudad de México;;México
+BDAY:19941109
+NOTE:Cédulas 12152669 / 14788885. Certificado 24803862.
+ITEM2.URL;TYPE=Citas:https://www.eutimya.org/cita
+ITEM2.X-ABLABEL:Citas
+PHOTO;TYPE=JPEG;VALUE=URI:https://i.imgur.com/v66X6q6.jpeg
+END:VCARD
